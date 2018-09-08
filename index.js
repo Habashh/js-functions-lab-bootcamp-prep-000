@@ -1,6 +1,4 @@
 // write your code below!
 function happyHolidays(greeting){
-  return greeting
+  return "Happy holidays!"
 }
-var greeting = ("Happy holidays!")
-happyHolidays(greeting)
