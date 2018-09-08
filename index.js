@@ -15,3 +15,10 @@ function happyHolidayTo(holiday, name){
 var name = "Zaid"
 var holiday = "Malaysia"
 happyHolidayTo(holiday, name)
+
+function holidayCountdown(holiday, days){
+  return `It's ${days} days until ${holiday}!`
+}
+var days = "Sunday"
+var holiday = "Malaysia"
+holidayCountdown(holiday, days)
