@@ -2,4 +2,4 @@
 function happyHolidays(greeting){
   return (greeting)
 }
-var greeting=("Happy holidays!")
+var greeting="Happy holidays!"
