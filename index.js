@@ -8,3 +8,10 @@ function happyHolidaysTo(name){
 }
 var name = "Zaid"
 happyHolidaysTo(name)
+
+function happyHolidayTo(holiday, name){
+  return `Happy ${holiday}, ${name}!`
+}
+var name = "Zaid"
+var holiday = "Malaysia"
+happyHolidayTo(holiday, name)
